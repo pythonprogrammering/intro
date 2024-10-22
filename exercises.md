@@ -1,5 +1,9 @@
 ## Övningsuppgifter
 
+### 1.0 Hello World!
+
+Printa ut "Hello World" till konsolen.
+
 ### 1.1 Ålderskontroll
 
 Skriv en funktion som tar in användarens ålder och sedan skriver ut om de är minderåriga (under 18 år), vuxna (mellan 18 och 65) eller pensionärer (över 65).
